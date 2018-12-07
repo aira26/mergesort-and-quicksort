@@ -1,6 +1,9 @@
 # mergesort-and-quicksort
 <br>
 This is my codes for quick sort and merge sort and, the differnce of the timing between them !<br>
+<br>
+![graph](https://github.com/aira26/mergesort-and-quicksort/blob/master/mergequick.png) 
+<br> <br>
 
 As we can see I first made my random list by importing random to see if everytime we get the same timing using both of the functions.<br>
 Then, I applied the function Merge Sort, which is a way of divide and conquer, it divides input array in two halves, calls itself for the two halves and then merges the two sorted halves. BUT the problem with this one is that it takes lots of memory! <br>
